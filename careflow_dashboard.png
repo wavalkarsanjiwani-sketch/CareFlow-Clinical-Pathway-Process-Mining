@@ -1,0 +1,32 @@
+# CareFlow – Clinical Pathway Process Mining
+
+## Power BI Dashboard
+
+This dashboard presents an overview of hospital OPD appointment data.
+
+### Dashboard Objectives
+- Monitor unique appointments and unique patients.
+- Analyze appointments across workflow categories.
+- Explore doctor-wise appointment distribution.
+- Support exploration of patient care workflows.
+
+### Dashboard Components
+- KPI Cards: Unique Appointments, Unique Patients, Workflow Categories, Doctor Count
+- Bar Chart: Appointments by Workflow
+- Donut Chart: Workflow Distribution
+- Column Chart: Appointments by Doctor
+- Slicers: Workflow, Doctor, Appointment Date
+
+### Tools Used
+- Microsoft Power BI
+- Power Query
+- Excel
+- Python
+
+### Notes
+The dashboard is based on a sample hospital OPD dataset. The metrics and visuals should be interpreted according to the available data and its limitations.
+
+### Future Improvements
+- Validate appointment and patient metrics.
+- Review timestamp quality.
+- Improve workflow analysis and process visualization.
